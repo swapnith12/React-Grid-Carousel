@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/landscapes/static/css/main.82f25979.css",
-    "main.js": "/landscapes/static/js/main.0338796a.js",
-    "static/js/787.0c3f432a.chunk.js": "/landscapes/static/js/787.0c3f432a.chunk.js",
-    "static/media/pxl1.jpg": "/landscapes/static/media/pxl1.4125e30fa6ab2d85b16c.jpg",
-    "static/media/pxl3.jpg": "/landscapes/static/media/pxl3.eb2b72b7a8409ddc45ff.jpg",
-    "static/media/pxl5.jpg": "/landscapes/static/media/pxl5.386f59b2975a887e1106.jpg",
-    "static/media/pxl4.jpg": "/landscapes/static/media/pxl4.04e89a5d353d65690425.jpg",
-    "static/media/homepage.png": "/landscapes/static/media/homepage.d7f472c8163275d2e4a0.png",
-    "static/media/pxl6.jpg": "/landscapes/static/media/pxl6.5fec55a92a7f1ef5a795.jpg",
-    "static/media/pxl2.jpg": "/landscapes/static/media/pxl2.e7b8001187bcc7d8b1d3.jpg",
-    "static/media/logo.svg": "/landscapes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/landscapes/index.html",
-    "main.82f25979.css.map": "/landscapes/static/css/main.82f25979.css.map",
-    "main.0338796a.js.map": "/landscapes/static/js/main.0338796a.js.map",
-    "787.0c3f432a.chunk.js.map": "/landscapes/static/js/787.0c3f432a.chunk.js.map"
+    "main.css": "/static/css/main.82f25979.css",
+    "main.js": "/static/js/main.48bf998a.js",
+    "static/js/787.0c3f432a.chunk.js": "/static/js/787.0c3f432a.chunk.js",
+    "static/media/pxl1.jpg": "/static/media/pxl1.4125e30fa6ab2d85b16c.jpg",
+    "static/media/pxl3.jpg": "/static/media/pxl3.eb2b72b7a8409ddc45ff.jpg",
+    "static/media/pxl5.jpg": "/static/media/pxl5.386f59b2975a887e1106.jpg",
+    "static/media/pxl4.jpg": "/static/media/pxl4.04e89a5d353d65690425.jpg",
+    "static/media/homepage.png": "/static/media/homepage.d7f472c8163275d2e4a0.png",
+    "static/media/pxl6.jpg": "/static/media/pxl6.5fec55a92a7f1ef5a795.jpg",
+    "static/media/pxl2.jpg": "/static/media/pxl2.e7b8001187bcc7d8b1d3.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.82f25979.css.map": "/static/css/main.82f25979.css.map",
+    "main.48bf998a.js.map": "/static/js/main.48bf998a.js.map",
+    "787.0c3f432a.chunk.js.map": "/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82f25979.css",
-    "static/js/main.0338796a.js"
+    "static/js/main.48bf998a.js"
   ]
 }
